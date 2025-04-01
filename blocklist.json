@@ -1,0 +1,170 @@
+{
+    "metadata": {
+      "version": "1.0.0",
+      "lastUpdated": "2025-04-01T12:00:00Z",
+      "totalChannels": 50,
+      "description": "Curated list of channels to block",
+      "homepage": "https://github.com/Sitric1/channel-blocklist"
+    },
+    "categories": [
+      {
+        "id": "category1",
+        "name": "Category One",
+        "description": "Primary perpetrators of pro-genocide and zionist content"
+      },
+      {
+        "id": "category2",
+        "name": "Category Two",
+        "description": "Second category of channels"
+      }
+    ],
+    "channels": [
+      {
+        "id": "UCGs-yDFkfHDbeQcApWkTtxg",
+        "name": "tv7israelnews",
+        "reason": "Israeli government propaganda",
+        "category": "category1",
+        "addedOn": "2025-03-15T00:00:00Z"
+      },
+      {
+        "id": "UCSajd4i4WsFI4JxsJ_vYbTw",
+        "name": "eretz_nehederet",
+        "reason": "Really disgusting zionist. Literal genocide p*rn",
+        "category": "category1",
+        "addedOn": "2025-03-20T00:00:00Z"
+      },
+      {
+        "id": "UCawNWlihdgaycQpO3zi-jYg",
+        "name": "Israel Defense Forces",
+        "reason": "Far-right enthno fascist military",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCkeTA80xeSa9POCGRpWTIfQ",
+        "name": "travelingisrael.com",
+        "reason": "Zionist propaganda",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCESz8P8IVAdOV-vcfavS1qA",
+        "name": "Jewish Learning Institute",
+        "reason": "Zionist institution and does not speak for all Jews, only Zionists.",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCk3IRuVAM4XWQQimiFJjJIw",
+        "name": "ONE FOR ISRAEL Ministry",
+        "reason": "Christian Zionist institution",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCJg9wBPyKMNA5sRDnvzmkdg",
+        "name": "LiveNOW from FOX",
+        "reason": "Super Pro-Israel American media outlet and spreader of zionist propaganda",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCuxgEyMeaks7HS5gAw6Tt7w",
+        "name": "IsraelEnglishNews",
+        "reason": "Zionist media outlet",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UC_lcGeEvl31EBBN8r9DVoTQ",
+        "name": "March of Life",
+        "reason": "German Zionist media outlet",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCYI_ychRnL7sJrG6PUSBpQA",
+        "name": "CBNnewsonline",
+        "reason": "Christian Zionist institution",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCMjyLTgfDR9MnREIpcWk95w",
+        "name": "Sergio & Rhoda in Israel",
+        "reason": "Zionist influencers",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UC6RJ7-PaXg6TIH2BzZfTV7w",
+        "name": "TIMES NOW",
+        "reason": "Indian pro-zionist media outlet. Hindutva (not to be confused with the religion Hinduism).",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCJHk7NZyFnyphA_jfdK5rvA",
+        "name": "LivingLchaim",
+        "reason": "Zionist media outlet",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCQeRaTukNYft1_6AZPACnog",
+        "name": "Asmongold TV",
+        "reason": "Racist streamer who considers Palestinians inferior",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCLtREJY21xRfCuEKvdki1Kw",
+        "name": "H3 Podcast",
+        "reason": "Zionist influencer",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCJsUvAqDzczYv2UpFmu4PcA",
+        "name": "Nas Daily",
+        "reason": "Zionist influencer",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCO0akufu9MOzyz3nvGIXAAw",
+        "name": "SkyNewsAustralia",
+        "reason": "Right wing Murdoch controlled media and spreader of Zionist narrative",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCvHDpsWKADrDia0c99X37vg",
+        "name": "i24NEWS_EN",
+        "reason": "Zionist media outlet",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCoMdktPbSTixAyNGwb-UYkQ",
+        "name": "SkyNews",
+        "reason": "Spreader of Zionist propaganda",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCvHDpsWKADrDia0c99X37vg",
+        "name": "i24NEWS_EN",
+        "reason": "Zionist media outlet",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      },
+      {
+        "id": "UCrvhNP_lWuPIP6QZzJmM-bw",
+        "name": "nypost",
+        "reason": "American media outlet zionist narrative",
+        "category": "category1",
+        "addedOn": "2025-03-25T00:00:00Z"
+      }
+    ]
+  }
